@@ -1,3 +1,3 @@
 # ProjetoIndustria
 
-O código do projeto está no arquivo Main da pasta SRC.
+O código do projeto está no arquivo Principal.JAVA da pasta SRC.
